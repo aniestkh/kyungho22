@@ -6,7 +6,6 @@ public class wth {
 		
 		
 		System.out.println(a);
-	
 	}
 
 }
